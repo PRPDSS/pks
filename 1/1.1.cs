@@ -16,15 +16,7 @@ class Calculator
         }
         return a / b;
     }
-    public double Modulus(double a, double b)
-    {
-        if (b == 0)
-        {
-            Console.WriteLine("Ошибка: деление на ноль!");
-            return double.NaN;
-        }
-        return a % b;
-    }
+    public double Percent(double a, double b) => a * b * 0.01;
     public double Reciprocal(double a)
     {
         if (a == 0)
@@ -63,7 +55,7 @@ while (!exit)
     Console.WriteLine("2: Вычитание (-)");
     Console.WriteLine("3: Умножение (*)");
     Console.WriteLine("4: Деление (/)");
-    Console.WriteLine("5: Остаток от деления (%)");
+    Console.WriteLine("5: Процент (%)");
     Console.WriteLine("6: 1/x");
     Console.WriteLine("7: x^2");
     Console.WriteLine("8: √x");
@@ -117,7 +109,7 @@ while (!exit)
             x = double.Parse(Console.ReadLine());
             Console.Write("Введите второе число: ");
             y = double.Parse(Console.ReadLine());
-            Console.WriteLine($"Результат: {calc.Modulus(x, y)}");
+            Console.WriteLine($"Результат: {calc.Percent(x, y)}");
             break;
 
         case 6:

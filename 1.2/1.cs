@@ -17,13 +17,19 @@ class Calendar
 }
 
 Calendar calendar = new Calendar();
-Console.Write("Ведите номер дня недели, с которого начинается месяц (1-пн,...7-вс) ");
-calendar.SetStartingDay(int.Parse(Console.ReadLine()));
+int day;
+while (true)
+{
+    Console.Write("Ведите номер дня недели, с которого начинается месяц (1-пн,...7-вс) ");
+    day = int.Parse(Console.ReadLine());
+    if (1 <= day && day <= 7) break;
+}
+calendar.SetStartingDay(day);
 
 while (true)
 {
     Console.Write("Введите день месяца ");
-    int day = int.Parse(Console.ReadLine());
+    day = int.Parse(Console.ReadLine());
     if (!calendar.CheckDate(day))
     {
         Console.WriteLine("Неверная дата, попробуйте еще раз.");
