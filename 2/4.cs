@@ -19,7 +19,7 @@ class Guesser
             if (step == 1)
             {
                 Console.WriteLine($"Ваше число {midpoint}? (y/n):");
-                if (Console.ReadLine() != "y") midpoint++;
+                if (Console.ReadLine() != "y") midpoint--;
             }
             step /= 2;
         }

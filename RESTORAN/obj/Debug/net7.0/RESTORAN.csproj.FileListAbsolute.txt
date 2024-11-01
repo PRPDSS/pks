@@ -1,0 +1,15 @@
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/bin/Debug/net7.0/RESTORAN
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/bin/Debug/net7.0/RESTORAN.deps.json
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/bin/Debug/net7.0/RESTORAN.runtimeconfig.json
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/bin/Debug/net7.0/RESTORAN.dll
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/bin/Debug/net7.0/RESTORAN.pdb
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.csproj.AssemblyReference.cache
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.AssemblyInfoInputs.cache
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.AssemblyInfo.cs
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.csproj.CoreCompileInputs.cache
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.dll
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/refint/RESTORAN.dll
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.pdb
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/RESTORAN.genruntimeconfig.cache
+/Users/parapidosius/Documents/Учеба/ПКС/RESTORAN/obj/Debug/net7.0/ref/RESTORAN.dll

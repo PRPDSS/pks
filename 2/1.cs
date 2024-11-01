@@ -14,6 +14,7 @@ class Solver
             sum += term; // Добавляем его к сумме
             n++;
         }
+        sum -= term;
 
         return sum;
     }
