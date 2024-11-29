@@ -1,0 +1,15 @@
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.csproj.AssemblyReference.cache
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.AssemblyInfoInputs.cache
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.AssemblyInfo.cs
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.csproj.CoreCompileInputs.cache
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/bin/Debug/net7.0/ZAKAZ
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/bin/Debug/net7.0/ZAKAZ.deps.json
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/bin/Debug/net7.0/ZAKAZ.runtimeconfig.json
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/bin/Debug/net7.0/ZAKAZ.dll
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/bin/Debug/net7.0/ZAKAZ.pdb
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.dll
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/refint/ZAKAZ.dll
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.pdb
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ZAKAZ.genruntimeconfig.cache
+/Users/parapidosius/Documents/Учеба/ПКС/ZAKAZ/obj/Debug/net7.0/ref/ZAKAZ.dll
